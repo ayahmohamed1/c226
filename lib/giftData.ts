@@ -47,10 +47,9 @@ const ahmedGift: GiftData = {
   balloonImage: "/images/cat.png",
   birthdayWishesTitle: "",
   birthdayWishesMessage:
-    `يزهاك يا صديقة قلبي، بالنسبة لي ❤️
-
-أنا آسف إني ما أعرف أختار هدايا، بس هذا شيء بسيط، ولا هو حقك. كله بس عشان فهمتيني غلط، لأن خاطرك عندي بمليون خاطر. ودي تدقين، ولا F2F، بس كتابة، يرحم أمك لا لا لا، اكتشفت إني أنفهم غلط.",
-`,
+    ` يزهاك يا صديقة قلبي، بالنسبة لي ❤️ 
+    
+    أنا آسف إني ما أعرف أختار هدايا، بس هذا شيء بسيط، ولا هو حقك. ذي بس علشان  فهمتيني غلط، لأن خاطرك عندي بمليون خاطر. ودي تدقين، ولا F2F، بس كتابة، يرحم أمك لا لا لا، اكتشفت إني أنفهم غلط.`,
   thingsWeWannaDo: defaultThings,
   loveLetterTitle: "The little things I love about you",
   loveLetterSubtitle: "To My Ahmed, With All My Love <3",

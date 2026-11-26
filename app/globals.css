@@ -611,9 +611,12 @@ html, body {
 
 .birthday-wishes-body {
   font-size: clamp(1.15rem, 3.2vw, 1.38rem);
+  font-weight: 700;
   line-height: 1.48;
   color: var(--navy-text-body);
   max-width: 500px;
+  text-align: right;
+  white-space: pre-line;
 }
 
 .birthday-wishes-card .card-footer {

@@ -177,7 +177,7 @@ export default function GiftClient({ data }: Props) {
               <h1 className="handwritten birthday-wishes-title">
                 {data.birthdayWishesTitle}
               </h1>
-              <p className="handwritten birthday-wishes-body">
+              <p dir="rtl" className="handwritten birthday-wishes-body">
                 {data.birthdayWishesMessage}
               </p>
             </div>
